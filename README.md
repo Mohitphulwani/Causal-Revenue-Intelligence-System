@@ -25,16 +25,4 @@ This project demonstrates a full-stack data analytics pipeline:
 
 ---
 
-## 📂 Project Structure
-```text
-├── sql/                    # SQL scripts for data extraction and prep
-│   ├── 01_data_prep.sql
-│   └── 02_profit_leakage_queries.sql
-├── notebooks/              # Python Causal Analysis logic
-│   └── causal_inference_model.ipynb 
-├── tableau/                # Dashboard workbook and preview
-│   ├── Revenue_Intelligence_Final.twbx
-│   └── dashboard_screenshot.png
-├── data/                   # Processed datasets
-│   └── matched_orders_final.csv
-└── README.md               # Project documentation
+
